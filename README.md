@@ -3,9 +3,9 @@
 ---
 
 ## 👥 Team Members
-|         Name         |   GitHub Username   |  
-|----------------------|---------------------|  
-| **[Chang Hoe Hin]**  | @username           |  
-| [Goh Chun Yong]      | @username           |  
-| [Tee Kah Le]         | @username           |  
-| [Yee Si Shun]        | @username           |
+|             Name              |   GitHub Username   |  
+|-------------------------------|---------------------|  
+| <ins>**Chang Hoe Hin**</ins>  | @username           |  
+| <ins>Goh Chun Yong</ins>      | @username           |  
+| <ins>Tee Kah Le</ins>         | @username           |  
+| <ins>Yee Si Shun</ins>        | @username           |
