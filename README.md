@@ -1,6 +1,20 @@
-## 🎯 Project Vision
+## 👥TeamFormation.docx
 
 ---
+## 🌟ProjectVision.docx
+
+---
+## 🗂️ContextObjects.docx
+
+---
+## 📊ElicitationPlan.docx
+
+---
+## 📈KanoModel.docx
+
+---
+## 📑SRS.docx
+
 
 ## 👥 Team Members
 |             Name              |   GitHub Username   |  
