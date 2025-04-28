@@ -2,7 +2,7 @@
 
 ---
 ## 🌟ProjectVision.docx
-
+Vision, Scope, Goals
 ---
 ## 🗂️ContextObjects.docx
 
