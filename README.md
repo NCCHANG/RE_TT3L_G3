@@ -1,23 +1,4 @@
-## 👥TeamFormation.docx
-
----
-## 🌟ProjectVision.docx
-Vision, Scope, Goals
----
-## 🗂️ContextObjects.docx
-
----
-## 📊ElicitationPlan.docx
-
----
-## 📈KanoModel.docx
-
----
-## 📑SRS.docx
-
-
-## 👥 Team Members
-<pre>
+## 👥 Team Members<pre>
 |        Name        |   GitHub Username   | Responsibility |
 |--------------------|---------------------|                |
 | <ins>Chang Hoe Hin</ins>      | @NCCHANG            |                |
