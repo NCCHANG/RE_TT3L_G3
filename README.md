@@ -1,4 +1,5 @@
-## 👥 Team Members<pre>
+## 👥 Team Members
+<pre>
 |        Name        |   GitHub Username   | Responsibility |
 |--------------------|---------------------|                |
 | <ins>Chang Hoe Hin</ins>      | @NCCHANG            |                |
